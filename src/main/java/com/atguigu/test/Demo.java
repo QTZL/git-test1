@@ -6,6 +6,7 @@ public class Demo {
         System.out.println(" I Love You ! ");
         System.out.println(" atguigu ");
         System.out.println(" forever ");
+        System.out.println(" me too ");
     }
 
 }
